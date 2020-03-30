@@ -1,2 +1,5 @@
 .metals/
 target/
+.settings/
+.project
+.classpath
